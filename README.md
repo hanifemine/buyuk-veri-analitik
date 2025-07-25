@@ -32,7 +32,7 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
     npm run dev
     ```
 
-    Uygulama varsayılan olarak `http://localhost:3000` adresinde çalışacaktır.
+    Uygulama varsayılan olarak `http://localhost:3004` adresinde çalışacaktır.
 
 ## Teknolojiler
 
